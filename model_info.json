@@ -1,0 +1,25 @@
+{
+  "img_size": [
+    224,
+    224
+  ],
+  "num_classes": 15,
+  "classes": [
+    "Bear",
+    "Bird",
+    "Cat",
+    "Cow",
+    "Deer",
+    "Dog",
+    "Dolphin",
+    "Elephant",
+    "Giraffe",
+    "Horse",
+    "Kangaroo",
+    "Lion",
+    "Panda",
+    "Tiger",
+    "Zebra"
+  ],
+  "total_params": 2622287
+}
